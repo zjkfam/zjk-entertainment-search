@@ -1,4 +1,4 @@
-[
+{
   "Malaysia Channels" : [
     {
       "name" : "RTM 1",
@@ -6,4 +6,4 @@
       "video" : "https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8"
     }
   ]
-]
+}
