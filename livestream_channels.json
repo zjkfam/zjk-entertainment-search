@@ -21,11 +21,28 @@
       "video" : "https://live-hls-aje-ak.getaj.net/AJE/02.m3u8"
     }    
   ],
+  "Australia" : [
+    {
+      "name" : "FOX Sports News",
+      "thumb" : "https://i.imgur.com/vLdszKt.png",
+      "video" : "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
+    },
+    {
+      "name" : "Fuel TV",
+      "thumb" : "https://i.imgur.com/XboGSjX.png",
+      "video" : "https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+  ]
   "Canada" : [
     {
       "name" : "CBC News",
       "thumb" : "https://i.imgur.com/gxGGalE.jpg",
       "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8"
+    },
+    {
+      "name" : "CityTv Toronto",
+      "thumb" : "https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png",
+      "video" : "https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8"
     },
     {
       "name" : "Filmrise Free Movies",
@@ -36,6 +53,51 @@
       "name" : "Filmrise True Crime",
       "thumb" : "https://i.imgur.com/8h66d9i.png",
       "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8"
-    }
+    },
+    {
+      "name" : "Fuel TV",
+      "thumb" : "https://i.imgur.com/ViWbGmj.png",
+      "video" : "https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+    {
+      "name" : "Global News Network",
+      "thumb" : "https://i.imgur.com/JIA7MUV.png",
+      "video" : "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
+    },
+    {
+      "name" : "ICI Montreal",
+      "thumb" : "https://i.imgur.com/yqRhaZ1.png",
+      "video" : "https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+    },
+    {
+      "name" : "ICI RDI HD",
+      "thumb" : "https://i.imgur.com/AI0PIzQ.png",
+      "video" : "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+    },
+    {
+      "name" : "ICI Tele HD",
+      "thumb" : "https://i.imgur.com/byTTNAi.png",
+      "video" : "https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8"
+    },
+    {
+      "name" : "Insight TV",
+      "thumb" : "https://i.imgur.com/uTZBchA.png",
+      "video" : "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Now This",
+      "thumb" : "https://i.imgur.com/1qYilYp.png",
+      "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8"
+    },
+    {
+      "name" : "Prime Asia TV",
+      "thumb" : "https://i.imgur.com/LdGWsGj.png",
+      "video" : "http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name" : "Prime Canada TV",
+      "thumb" : "https://i.imgur.com/rEKsf20.jpg",
+      "video" : "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8"
+    },
   ]
 }
