@@ -23,6 +23,26 @@
   ],
   "Australia" : [
     {
+      "name" : "Action Hollywood Movies",
+      "thumb" : "https://i.imgur.com/wnlzC0w.jpg",
+      "video" : "https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Bloomberg Australia",
+      "thumb" : "https://i.imgur.com/KKFqbHw.png",
+      "video" : "https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8"
+    },
+    {
+      "name" : "Dust",
+      "thumb" : "https://i.imgur.com/pXXUmuW.jpg",
+      "video" : "https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+    {
+      "name" : "Filmstream",
+      "thumb" : "https://i.imgur.com/cFbzgED.jpg",
+      "video" : "https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+    {
       "name" : "FOX Sports News",
       "thumb" : "https://i.imgur.com/vLdszKt.png",
       "video" : "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
@@ -32,6 +52,66 @@
       "thumb" : "https://i.imgur.com/XboGSjX.png",
       "video" : "https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8"
     },
+    {
+      "name" : "Gusto TV",
+      "thumb" : "https://i.imgur.com/DZD4jTq.png",
+      "video" : "https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+    {
+      "name" : "Insight TV",
+      "thumb" : "https://i.imgur.com/gKNP2Gd.png",
+      "video" : "https://insighttv-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Introuble TV",
+      "thumb" : "https://i.imgur.com/iVw55kC.png",
+      "video" : "https://introuble-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Inwild TV",
+      "thumb" : "https://i.imgur.com/VSiG39E.png",
+      "video" : "https://inwild-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Inwonder TV",
+      "thumb" : "https://i.imgur.com/d3LshRd.png",
+      "video" : "https://inwonder-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Outdoor Channel",
+      "thumb" : "https://i.imgur.com/mcUDAhZ.png",
+      "video" : "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Sky News Australia",
+      "thumb" : "https://i.imgur.com/ZeC0jE4.png",
+      "video" : "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"
+    },
+    {
+      "name" : "Sky News Australia Extra 1",
+      "thumb" : "https://i.imgur.com/1XiQezD.png",
+      "video" : "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
+    },
+    {
+      "name" : "Sky News Australia Extra 2",
+      "thumb" : "https://i.imgur.com/1XiQezD.png",
+      "video" : "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+    },
+    {
+      "name" : "Sky News Australia Extra 3",
+      "thumb" : "https://i.imgur.com/1XiQezD.png",
+      "video" : "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+    },
+    {
+      "name" : "Smithsonian Channel",
+      "thumb" : "https://i.imgur.com/weNdD7r.png",
+      "video" : "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name" : "Travel XP",
+      "thumb" : "https://i.imgur.com/6V48LwT.jpg",
+      "video" : "https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+    }
   ],
   "Canada" : [
     {
